@@ -1,0 +1,8 @@
+name: EnderNoInventoryMove
+version: '${project.version}'
+main: net.endkind.endernoinventorymove.EnderNoInventoryMove
+api-version: '1.20'
+prefix: EnderNoInventoryMove
+authors: [Endkind Ender]
+description: A plugin that prevents moving items in the inventory.
+website: https://www.endkind.net
